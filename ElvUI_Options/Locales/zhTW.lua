@@ -1205,6 +1205,7 @@ L["On Me"] = true
 L["On Pet"] = true
 L["On screen positions for different elements."] = "不同的元件在螢幕上的位置"
 L["Only Free Slots"] = "僅空餘槽位"
+L["Only Friendly"] = true
 L["Only highlight the aura that originated from you and not others."] = "僅顯著顯示你自己施放的光環."
 L["Only load nameplates for units within this range."] = true
 L["Only Low"] = true

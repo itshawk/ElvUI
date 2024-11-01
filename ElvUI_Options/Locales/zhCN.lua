@@ -1246,6 +1246,7 @@ L["On Pet"] = "宠物身上的"
 L["On screen positions for different elements."] = "屏幕上各元素的位置"
 L["Only Equipped"] = "仅已装备"
 L["Only Free Slots"] = "仅可用槽"
+L["Only Friendly"] = true
 L["Only Healer"] = "仅治疗者"
 L["Only highlight the aura that originated from you and not others."] = "仅突出你自己的光环而不是别人的"
 L["Only load nameplates for units within this range."] = "仅加载此范围内的姓名板。"

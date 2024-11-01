@@ -1203,6 +1203,7 @@ L["On Me"] = "Sur moi"
 L["On Pet"] = "Sur le familier"
 L["On screen positions for different elements."] = "Positions à l'écran pour différents éléments."
 L["Only Free Slots"] = "Uniquement les emplacements libres"
+L["Only Friendly"] = true
 L["Only highlight the aura that originated from you and not others."] = "Ne surligne que les auras d'origine de votre personnage et pas celles des autres."
 L["Only load nameplates for units within this range."] = "Charge uniquement les barres d'info des unités se trouvant dans cette plage."
 L["Only Low"] = "Uniquement faible"

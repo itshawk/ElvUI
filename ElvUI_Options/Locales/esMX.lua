@@ -1206,6 +1206,7 @@ L["On Me"] = "En Mí"
 L["On Pet"] = "En Mascota"
 L["On screen positions for different elements."] = true
 L["Only Free Slots"] = true
+L["Only Friendly"] = true
 L["Only highlight the aura that originated from you and not others."] = true
 L["Only load nameplates for units within this range."] = true
 L["Only Low"] = true

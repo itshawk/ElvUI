@@ -274,9 +274,7 @@ function UF:PostUpdateHealthColor(unit, r, g, b)
 			if ((colors.healthclass and colors.colorhealthbyvalue) or (colors.colorhealthbyvalue and parent.isForced)) and not isTapped then
 				newr, newg, newb = ElvUF:ColorGradient(self.cur, self.max, 1, 0, 0, 1, 1, 0, r, g, b)
 			elseif healthBreak and healthBreak.enabled then
-				if healthBreak.onlyFriendly and not UnitIsFriend("player", unit) then
-					-- do nothing if we have onlyFriendly and we are not friendly >:(
-				else 
+				if not healthBreak.onlyFriendly or UnitIsFriend('player', unit) then
 					local breakPoint = self.max > 0 and (self.cur / self.max) or 1
 					local onlyLow = healthBreak.onlyLow
 

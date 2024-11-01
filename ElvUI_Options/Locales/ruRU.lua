@@ -1214,6 +1214,7 @@ L["On Me"] = "На мне"
 L["On Pet"] = "На питомце"
 L["On screen positions for different elements."] = "Положение различных элементов на экране."
 L["Only Free Slots"] = "Только свободные слоты"
+L["Only Friendly"] = true
 L["Only highlight the aura that originated from you and not others."] = "Подсвечивать только ауры, наложенные лично Вами."
 L["Only load nameplates for units within this range."] = "Загружать только индикаторы для юнитов в этом радиусе."
 L["Only Low"] = "Только нижний"

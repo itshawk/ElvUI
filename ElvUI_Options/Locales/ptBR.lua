@@ -1206,6 +1206,7 @@ L["On Me"] = "Em Mim"
 L["On Pet"] = "Em Pet"
 L["On screen positions for different elements."] = "Posições na tela para diferentes elementos."
 L["Only Free Slots"] = "Apenas Vagas Vazias"
+L["Only Friendly"] = true
 L["Only highlight the aura that originated from you and not others."] = "Apenas destacar a aura que originou de você e não de outros."
 L["Only load nameplates for units within this range."] = "Apenas carregar placas de identificação para unidades dentro desta distância."
 L["Only Low"] = "Apenas Baixos"

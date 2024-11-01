@@ -1206,6 +1206,7 @@ L["On Me"] = true
 L["On Pet"] = true
 L["On screen positions for different elements."] = "Farkli ogeler icin ekran konumlari."
 L["Only Free Slots"] = "Yalnizca ucretsiz Slotlar"
+L["Only Friendly"] = true
 L["Only highlight the aura that originated from you and not others."] = "Baskalarindan degil, yalnizca sizden gelen aurayi vurgulayin."
 L["Only load nameplates for units within this range."] = true
 L["Only Low"] = true

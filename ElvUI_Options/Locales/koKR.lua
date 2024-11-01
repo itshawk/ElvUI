@@ -1225,6 +1225,7 @@ L["On Me"] = true
 L["On Pet"] = true
 L["On screen positions for different elements."] = "다른 요소에 대한 화면 위치."
 L["Only Free Slots"] = "남은 공간만"
+L["Only Friendly"] = true
 L["Only highlight the aura that originated from you and not others."] = "오로지 자신에게서 시작된 오라(버프/디버프)만을 강조합니다."
 L["Only load nameplates for units within this range."] = "이 범위 내의 대상에 대한 이름표를 표시합니다."
 L["Only Low"] = "낮음때만"
